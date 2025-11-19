@@ -1,8 +1,8 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: José Luis González Sánchez
 
-Curso: 1DAW o 2DAW
+Curso: 1DAW
 
 Email: tu email de IES Luis Vives o EducaMadrid
 
